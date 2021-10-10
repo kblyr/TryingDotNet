@@ -1,0 +1,14 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "PredicateInWhileLoop_Build",
+            "command": "dotnet",
+            "type": "shell",
+            "args": [
+                "build",
+                "src/PredicateInWhileLoop"
+            ]
+        }
+    ]
+}
